@@ -1,7 +1,7 @@
 # LedHandler
 ##### Led Seven Segment Display Library
 
-LedSSD is an [Arduino](http://arduino.cc) library for MAX7219 and MAX7221 Led display drivers.
+LedHandler is an [Arduino](http://arduino.cc) library for MAX7219 and MAX7221 Led display drivers.
 With usage of LedControl.
 
 ### Usage
